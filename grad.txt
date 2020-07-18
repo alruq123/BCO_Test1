@@ -1,0 +1,15 @@
+John Mac 2001 GMU Mathmatics 3.2 Alexandria
+Kate Lene 2003 GWU English 2.4 DC
+Frank Finia 1994 JMU English 3.2 Fairfax
+Joe Addam 2004 JMU Mathmatics 4.0 Fairfax 
+Bill James 2002 JMU Engineering 3.9 Fairfax 
+Harry Lamer 2004 JMU English 4.0 Fairfax 
+Geroge Loke 2000 GWU Engineering 2.8 Alexandria 
+Marcy Harper 2002 GWU Mathmatics 2.2 Alexandria 
+Penny Jasonson 2001 GWU English 3.7 Alexandria
+Henry Adomson 2006 GMU English 2.5 Fairfax 
+Katie Avean 2000 GWU English 2.6 Arlington
+Zack Jackson 1998 JMU Engineering 3.0 Fairfax
+Holly Katen  1998 JMU English 4.0 Alexandria
+Vance Jackson 2000 JMU English 2.4 Arligton
+Lance Adamson 1996 JMU Enlish 3.6 Alexandria  

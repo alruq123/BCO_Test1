@@ -1,0 +1,15 @@
+Jack Addam 2000 GMU Mathmatics 3.0 Alexandria
+Lily Cono 2001 GWU English 2.0 DC
+Alex Finia 1992 GMU English 4.0 Fairfax
+Kate Addam 2000 GMU Mathmatics 2.5 Fairfax 
+Henry James 2000 GMU Engineering 3.2 Fairfax 
+Katie Lamer 2001 JMU Engineering 3.1 Fairfax 
+Geroge Zeanr 2004 GMU Engineering 2.6 Alexandria 
+Macy Japeni 2001 GMU Mathmatics 2.7 Alexandria 
+Polly Pocket 2001 GMU English 3.7 Alexandria 
+Henry Lete 2006 GMU English 2.5 Alexandria 
+Katie Avean 2001 GWU English 2.6 Fairfax 
+Zack Vinc 1997 JMU Engineering 3.0 Alexandria 
+Holly Kane 1998 JMU English 4.0 Arlington 
+Vance Jackson 2000 JMU English 2.4 DC 
+Mike Norway 1996 JMU Enlish 3.6 DC  
