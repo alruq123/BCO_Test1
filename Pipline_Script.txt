@@ -1,0 +1,1 @@
+cat VA_Students.txt | awk '{print $1 " " $2 " " $6 " "$5}' | awk '{ if ($4 = "English") {$3 -= 0.2}; print}' | sort -r > VA_Students_Results.txt
